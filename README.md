@@ -12,8 +12,7 @@
 
 Desenvolvedora full-stack dedicada em criar soluções elegantes e eficientes. Especializada em C#/.NET e Angular, com foco em arquitetura limpa e boas práticas de desenvolvimento.
 
-- 🔭 Atualmente trabalhando em **Stockr** - Sistema de Gestão de Estoque
-- 🌱 Aprendendo **Event-Driven Architecture** e **Docker**
+- 🌱 Aprendendo **Event-Driven Architecture**, **Docker** e **RabbitMQ**
 - 💡 Interessada em **Clean Architecture**, **DDD** e **CQRS**
 
 ---
